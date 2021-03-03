@@ -2,10 +2,9 @@
 <img align='right' src="https://pbs.twimg.com/profile_images/1055719162021068800/zrGcsTtu.jpg" width="210">
 
 - 🤝🏻 I'm Currently Working In **Flip Robo Technology** as an intern **Data scientist**.
-- 🎓 I'm currently Individually Exploring my self for learning **Data Science** from **Every content present on web**.
+- 🖋️ I'm currently Individually Exploring my self for learning **Data Science** from **Every content present on web**.
 - 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
 - 💻 I'm looking for an **Full Time Job** in **Data Science** domain.
-- 🖋️ I'm actively **Exploring** on Data science Field.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
