@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey there, I'm Khurram!
+<img align='right' src="https://www.google.com/search?q=khurram+shakoor&rlz=1C1GCEB_enIN924IN924&sxsrf=ALeKk01DjcFTH6Gm52atluILS4WNixqIGA:1614786238741&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8kJfBu5TvAhVcILcAHTz3DBoQ_AUoAnoECAMQBA&biw=1366&bih=578#imgrc=uczBLu2MeETsKM.jpg" width="210">
 
-<!--
-**khurram-DS/khurram-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently learning and Exploring **Data Science** from **Every content present on web**.
+- 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
+- 💻 I'm looking for an **Full Time Job** in **Data Science** domain.
+- 🖋️ I'm actively **Exploring** on Dat science Field.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
+- 📌 Scroll down to see my **Pinned Repositories**.
+```python
+def Khurram():
+  skills_with_proficiency = {'Python': 'Advance', 'My SQL': 'Intermidiate', 'Data Science Algorithm': 'Intermidiate', 'HTML': 'Beginner'}
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'Power BI', 'flask', 'tableau','Plotly','Beautiful Soup','Selenium','Bar chart Race']
+  cloud_architecture = ['heroku'']
+  return ∞
+```
 
-Here are some ideas to get you started:
+## Connect me on:
+- LinkedIn: https://www.linkedin.com/in/khurram-shakoor-b49a2314a/
+- Website: https://khurram-ds.github.io/khurram-website.GitHub.io/?fbclid=IwAR3GhUx0kEbrS86JMtZJYnan3H9PRHTv59WX5roao1j6EzKGtIg0UwWY0n4
+- Facebook: https://www.facebook.com/mdkhurram.shakoor/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_**Note:** Please **do not spam** on the above mentioned profiles._
