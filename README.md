@@ -1,18 +1,21 @@
 ## Hey there, I'm Khurram!
 <img align='right' src="https://pbs.twimg.com/profile_images/1055719162021068800/zrGcsTtu.jpg" width="210">
 
+- 🤝🏻 I'm Currently Working In **Flip Robo Technology** as an intern ** Data scientist**.
 - 🎓 I'm currently learning and Exploring **Data Science** from **Every content present on web**.
 - 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
 - 💻 I'm looking for an **Full Time Job** in **Data Science** domain.
-- 🖋️ I'm actively **Exploring** on Dat science Field.
+- 🖋️ I'm actively **Exploring** on Data science Field.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def Khurram():
-  skills_with_proficiency = {'Python': 'Advance', 'My SQL': 'Intermidiate', 'Data Science Algorithm': 'Intermidiate', 'HTML': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'Power BI', 'flask', 'tableau','Plotly','Beautiful Soup','Selenium','Bar chart Race']
-  cloud_architecture = ['heroku'']
+  Skills_with_proficiency = {'Python': 'Advance', 'My SQL': 'Intermidiate', 'Data Science Algorithm': 'Intermidiate', 'HTML': 'Beginner',
+                             'Data Analyst':'Intermidiate','Electrical Engineer':'Intermidiate','Ms office':'Intermidiate'}
+  Tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'Power BI', 'flask','Plotly','Beautiful Soup','Selenium','Bar chart Race']
+  IDE = ['Jupytor Notebook':'Advanced, 'Pycharm':'Intermidiate','Spyder':'Advanced','Google Colab':'Intermidiate']
+  cloud_architecture = ['Heroku'']
   return ∞
 ```
 
