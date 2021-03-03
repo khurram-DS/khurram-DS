@@ -13,7 +13,7 @@ def Khurram():
   Skills_with_proficiency = {'Python': 'Advance', 'My SQL': 'Intermidiate', 'Data Science Algorithm': 'Intermidiate', 'HTML': 'Beginner',
                              'Data Analyst':'Intermidiate','Electrical Engineer':'Intermidiate','Ms office':'Intermidiate'}
   Tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'Power BI', 'flask','Plotly','Beautiful Soup','Selenium','Bar chart Race']
-  IDE = ['Jupytor Notebook':'Advanced, 'Pycharm':'Intermidiate','Spyder':'Advanced','Google Colab':'Intermidiate']
+  IDE = ['Jupytor Notebook':'Advanced', 'Pycharm':'Intermidiate','Spyder':'Advanced','Google Colab':'Intermidiate']
   cloud_architecture = ['Heroku'']
   return ∞
 ```
