@@ -1,5 +1,5 @@
 ## Hey there, I'm Khurram!
-<img align='right' src="https://www.google.com/search?q=khurram+shakoor&rlz=1C1GCEB_enIN924IN924&sxsrf=ALeKk01DjcFTH6Gm52atluILS4WNixqIGA:1614786238741&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8kJfBu5TvAhVcILcAHTz3DBoQ_AUoAnoECAMQBA&biw=1366&bih=578#imgrc=uczBLu2MeETsKM.jpg" width="210">
+<img align='right' src="https://gifyu.com/image/ZZuY.gif" width="210">
 
 - 🎓 I'm currently learning and Exploring **Data Science** from **Every content present on web**.
 - 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
