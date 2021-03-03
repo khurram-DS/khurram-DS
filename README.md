@@ -1,7 +1,7 @@
 ## Hey there, I'm Khurram!
 <img align='right' src="https://pbs.twimg.com/profile_images/1055719162021068800/zrGcsTtu.jpg" width="210">
 
-- 🤝🏻 I'm Currently Working In **Flip Robo Technology** as an intern ** Data scientist**.
+- 🤝🏻 I'm Currently Working In **Flip Robo Technology** as an intern **Data scientist**.
 - 🎓 I'm currently Individually Exploring my self for learning **Data Science** from **Every content present on web**.
 - 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
 - 💻 I'm looking for an **Full Time Job** in **Data Science** domain.
