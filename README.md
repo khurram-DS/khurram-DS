@@ -1,5 +1,5 @@
 ## Hey there, I'm Khurram!
-<img align='right' src="https://gifyu.com/image/ZZuG.jpg" width="210">
+<img align='right' src="https://gifyu.com/image/ZZuG" width="210">
 
 - 🎓 I'm currently learning and Exploring **Data Science** from **Every content present on web**.
 - 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/) and [DataTrained](https://www.datatrained.com/).
