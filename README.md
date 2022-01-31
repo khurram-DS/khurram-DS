@@ -3,7 +3,6 @@
 
 - 🤝🏻 I'm Currently Working Part-time in **Advancement consulting for statistics, Kuwait ** as a **Data scientist**.
 - 🖋️ I'm currently Individually Exploring my self for learning **Data Science**.
-- 🌱 I'm currently learning from [Applied Ai](https://www.appliedaicourse.com/).
 - 💻 I'm looking for an **Full Time Job** in **Data Science** domain.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 - 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community**.
